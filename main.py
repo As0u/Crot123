@@ -2,6 +2,7 @@ from random import choice, shuffle
 from time import sleep
 from PyQt5.QtWidgets import QApplication
 
+print('')
 app = QApplication([])
 
 from main_window import *
